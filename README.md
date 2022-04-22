@@ -1,12 +1,5 @@
 # [Node-Typescript-Boilerplate](https://blog.santoshshinde.com/skeleton-for-node-js-apps-written-in-typescript-444fa1695b30)
 
-Skeleton for Node.js applications written in TypeScript
-
-## Purpose
-
-Our main purpose with this Skeleton is to start server application with node js and typescript.
-
-Try it!! I am happy to hear your feedback or any kind of new features.
 
 ## Common Features
 
@@ -144,5 +137,3 @@ chmod ug+x .git/hooks/*
 
 
 <hr/>
-
-# Please connect with me on Twitter [@shindesan2012](https://twitter.com/shindesan2012) & [https://blog.santoshshinde.com](https://blog.santoshshinde.com/)
